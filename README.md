@@ -5,8 +5,6 @@
 
 # My Skills
 
-# My Skills
-
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
 
@@ -20,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-<
+
 <!--
 **lijwxg/lijwxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
