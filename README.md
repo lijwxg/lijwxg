@@ -1,7 +1,7 @@
 # My Status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lijwxg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://vercel.daoji.site/api?username=lijwxg&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijwxg&theme=dracula&exclude_repo=lijwxg.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.daoji.site/api/top-langs/?username=lijwxg&theme=dracula&exclude_repo=lijwxg.github.io&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skills
 
